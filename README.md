@@ -15,7 +15,7 @@ reports should be considered on a case-by-case basis.
 
 You can install a standalone binary of this check using
 ```
-go get github.com/Merovius/go-tools/cmd/redundantbranch`
+go get github.com/Merovius/go-tools/cmd/redundantbranch
 ```
 
 # License
